@@ -28,7 +28,7 @@ public class OSMLotes {
             Lote lote = new Lote(2, 1, 1, 1, 1, 1, 1, lt, "fgonzalez");
 
             ld.agregarLote(lote);
-
+            // probando
         } catch (ClassNotFoundException ex) {
             Logger.getLogger(OSMLotes.class.getName()).log(Level.SEVERE, null, ex);
         }
